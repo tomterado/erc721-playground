@@ -1,5 +1,5 @@
-const pinataApiKey = "f0fb5d18457ab833e355";
-const pinataSecretApiKey = "e94bf6f508f3cf6bd465fd75867fac936c083ab54e426934d30f24ea8c3ffffa";
+const pinataApiKey = "INSERT-API-KEY";
+const pinataSecretApiKey = "INSERT-PRIVATE-KEY";
 const axios = require("axios");
 const fs = require("fs");
 const FormData = require("form-data");
