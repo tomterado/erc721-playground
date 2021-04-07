@@ -1,3 +1,5 @@
+![erc721](https://academy.bit2me.com/wp-content/uploads/2019/07/tokens-erc-721-todos-distintos.jpg)
+
 # ERC721 Playground
 Playground for ERC721 NFT Tokens
 
