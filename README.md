@@ -9,3 +9,10 @@ Had to change the import of ```ERC721``` to ```ERC721URIStorage``` for the chang
 [Contract Deployement](https://ropsten.etherscan.io/tx/0xe29f901e568c9a3e4b22b2164f79eecafdf47e63c8d4916fd70d128df988e6e0)
 
 Pretty good tutorial
+
+
+## [How to Make a Pokémon-Like Game With ERC-721 Tokens](https://betterprogramming.pub/how-to-make-a-pok%C3%A9mon-like-game-with-erc-721-tokens-704f2344626)
+No Front end but author is really knowledgeable and breaks down all the steps
+
+## [CryptoKitties Clone In 20 minutes. Non-fungible Token Tutorial](https://maksimivanov.com/posts/gradient-coin-tutorial/)
+A bit outdated had to upgrade modules (2018) + fix a few contstructor syntax
